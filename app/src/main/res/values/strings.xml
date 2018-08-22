@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Resistencia</string>
+    <string name="cero">0</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="cincopor">%5</string>
+    <string name="diezpor">%10</string>
+    <string name="calcular">Calcular</string>
+    <string name="exp0">10E0</string>
+    <string name="exp1">10E1</string>
+    <string name="exp2">10E2</string>
+    <string name="exp3">10E3</string>
+    <string name="exp4">10E4</string>
+    <string name="exp5">10E5</string>
+    <string name="exp6">10E7</string>
+    <string name="exp7">10E7</string>
+    <string name="expo6">10E6</string>
+    <string name="exp8">10E8</string>
+    <string name="exp9">10E9</string>
+    <string name="diez">10</string>
+    <string name="tolerancia">Tolerancia%</string>
+</resources>
